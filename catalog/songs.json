@@ -12,7 +12,18 @@
     }
   ],
   "songs" : [
-
+    {
+      "artist" : "",
+      "body" : "{Куплет 1}\n[C]Введите текст песни с [G]аккордами в скобках\n[Am]Секции — в фигурных [F]скобках\n\n{Припев}\n[F]Это строка [C]припева [G]здесь",
+      "capo" : 0,
+      "dateAdded" : 803237589.182153,
+      "id" : "D9D296DE-3F90-4719-9E09-AAFB7BF9C2C0",
+      "isFavorite" : false,
+      "isRemote" : false,
+      "key" : "C",
+      "title" : "Praise",
+      "transpose" : 0
+    }
   ],
   "version" : 1
 }
