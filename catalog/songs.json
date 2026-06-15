@@ -1,4 +1,16 @@
 {
+  "setlists" : [
+    {
+      "colorHex" : "FFB627",
+      "dateCreated" : 803230936.977661,
+      "id" : "BCC22A6B-997C-47FF-81DE-DECBDDD86F6F",
+      "isRemote" : false,
+      "name" : "Группа 1",
+      "songIDs" : [
+
+      ]
+    }
+  ],
   "songs" : [
 
   ],
