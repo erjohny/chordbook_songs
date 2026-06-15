@@ -1,17 +1,6 @@
 {
   "songs" : [
-    {
-      "artist" : "",
-      "body" : "{Куплет 1}\n[C]Введите текст песни с [G]аккордами в скобках\n[Am]Секции — в фигурных [F]скобках\n\n{Припев}\n[F]Это строка [C]припева [G]здесь",
-      "capo" : 0,
-      "dateAdded" : 803230586.428424,
-      "id" : "1E2B21A9-7EA0-44E8-A24A-33A14B3F13F0",
-      "isFavorite" : false,
-      "isRemote" : false,
-      "key" : "C",
-      "title" : "Tyctcyc",
-      "transpose" : 0
-    }
+
   ],
   "version" : 1
 }
