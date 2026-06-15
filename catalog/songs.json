@@ -1,6 +1,15 @@
 {
   "setlists" : [
+    {
+      "colorHex" : "9B5DE5",
+      "dateCreated" : 803235031.160643,
+      "id" : "6C7C1A6B-EB94-4828-AAD5-B48707E1E9A6",
+      "isRemote" : false,
+      "name" : "Нов",
+      "songIDs" : [
 
+      ]
+    }
   ],
   "songs" : [
     {
