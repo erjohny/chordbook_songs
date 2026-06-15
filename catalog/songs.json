@@ -1,6 +1,17 @@
 {
   "songs" : [
-
+    {
+      "artist" : "",
+      "body" : "{Куплет 1}\n[C]Введите текст песни с [G]аккордами в скобках\n[Am]Секции — в фигурных [F]скобках\n\n{Припев}\n[F]Это строка [C]припева [G]здесь",
+      "capo" : 0,
+      "dateAdded" : 803190425.314929,
+      "id" : "8264CC67-C82A-4CF2-A88A-B9302E659ECC",
+      "isFavorite" : false,
+      "isRemote" : false,
+      "key" : "C",
+      "title" : "Неплохо",
+      "transpose" : 0
+    }
   ],
   "version" : 1
 }
