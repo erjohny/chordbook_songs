@@ -1,6 +1,15 @@
 {
   "setlists" : [
+    {
+      "colorHex" : "9B5DE5",
+      "dateCreated" : 803234053.577395,
+      "id" : "62DBB541-F56D-4E81-8EBC-900B7F17A2BB",
+      "isRemote" : false,
+      "name" : "Провера",
+      "songIDs" : [
 
+      ]
+    }
   ],
   "songs" : [
 
