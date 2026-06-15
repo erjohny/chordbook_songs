@@ -3,18 +3,7 @@
 
   ],
   "songs" : [
-    {
-      "artist" : "",
-      "body" : "{Куплет 1}\n[C]Введите текст песни с [G]аккордами в скобках\n[Am]Секции — в фигурных [F]скобках\n\n{Припев}\n[F]Это строка [C]припева [G]здесь",
-      "capo" : 0,
-      "dateAdded" : 803237311.346383,
-      "id" : "71AFA2D8-4D2B-4F18-856E-F60C56348BAB",
-      "isFavorite" : false,
-      "isRemote" : false,
-      "key" : "C",
-      "title" : "Новая 1",
-      "transpose" : 0
-    }
+
   ],
   "version" : 1
 }
