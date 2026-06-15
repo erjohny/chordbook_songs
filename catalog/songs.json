@@ -1,17 +1,6 @@
 {
   "songs" : [
-    {
-      "artist" : "",
-      "body" : "{Куплет 1}\n[C]Введите текст песни с [G]аккордами в скобках\n[Am]Секции — в фигурных [F]скобках\n\n{Припев}\n[F]Это строка [C]припева [G]здесь",
-      "capo" : 0,
-      "dateAdded" : 803204438.570589,
-      "id" : "3CBAB3AC-0585-4EEA-97B3-F8200F8D8C96",
-      "isFavorite" : false,
-      "isRemote" : false,
-      "key" : "C",
-      "title" : "Песнч",
-      "transpose" : 0
-    }
+
   ],
   "version" : 1
 }
