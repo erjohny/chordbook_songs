@@ -1,6 +1,17 @@
 {
   "songs" : [
-
+    {
+      "artist" : "",
+      "body" : "{Куплет 1}\n[C]Введите текст песни с [G]аккордами в скобках\n[Am]Секции — в фигурных [F]скобках\n\n{Припев}\n[F]Это строка [C]припева [G]здесь",
+      "capo" : 0,
+      "dateAdded" : 803193326.340877,
+      "id" : "036CB164-11FE-4C81-ABB2-3636CA5BF6DA",
+      "isFavorite" : false,
+      "isRemote" : false,
+      "key" : "C",
+      "title" : "Проверка",
+      "transpose" : 0
+    }
   ],
   "version" : 1
 }
