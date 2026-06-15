@@ -1,17 +1,6 @@
 {
   "songs" : [
-    {
-      "artist" : "",
-      "body" : "{Куплет 1}\n[C]Введите текст песни с [G]аккордами в скобках\n[Am]Секции — в фигурных [F]скобках\n\n{Припев}\n[F]Это строка [C]припева [G]здесь",
-      "capo" : 0,
-      "dateAdded" : 803230499.186842,
-      "id" : "F2121B06-CD07-4B4E-9C24-4AEDA3141FD9",
-      "isFavorite" : false,
-      "isRemote" : false,
-      "key" : "C",
-      "title" : "Worship",
-      "transpose" : 0
-    }
+
   ],
   "version" : 1
 }
