@@ -1,17 +1,6 @@
 {
   "songs" : [
-    {
-      "artist" : "",
-      "body" : "{Куплет 1}\n[C]Введите текст песни с [G]аккордами в скобках\n[Am]Секции — в фигурных [F]скобках\n\n{Припев}\n[F]Это строка [C]припева [G]здесь",
-      "capo" : 0,
-      "dateAdded" : 803190161.157566,
-      "id" : "1277BE5A-9BC4-4A0F-B03B-8542F99AD1CE",
-      "isFavorite" : false,
-      "isRemote" : false,
-      "key" : "C",
-      "title" : "Круто",
-      "transpose" : 0
-    }
+
   ],
   "version" : 1
 }
